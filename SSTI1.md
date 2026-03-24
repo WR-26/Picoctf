@@ -43,5 +43,5 @@ Mở file thôi
 <img width="1661" height="438" alt="image" src="https://github.com/user-attachments/assets/6a3bc5d8-c492-4084-99d0-dbda30391497" />
 
 
-picoCTF{s4rv3r\_s1d3\_t3mp14t3\_1nj3ct10n5\_4r3\_c001\_bcf73b04}
+picoCTF{s4*****\_s****\_*********\_1nj*****5\_4****\_c****\********}
 
