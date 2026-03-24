@@ -1,6 +1,5 @@
 <img width="1841" height="907" alt="image" src="https://github.com/user-attachments/assets/d2454490-c7e5-4828-a062-e0c00be2c179" />
 
-I built a cool website that lets you announce whatever you want!*
 
 Mình có thể ghi bất cứ cái gì , ngay cả những câu lệnh .
 vậy , tại sao ta không ghi những câu lệnh để xem có thể mở ra cái gì đó hay ho từ dòng đó không .
