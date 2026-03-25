@@ -52,6 +52,7 @@ Flag cần tìm của chúng ta đã xuất hiện , việc tiếp theo của ch
 
 (Note : Lý do là tôi vừa làm vừa chụp rồi ghi lại trên github nên link trong bài các bạn thấy có thể sẽ khác nhau , nhưng không làm ảnh hưởng đến chất lượng nội dung của bài viêt . Các bạn đều có thể làm theo hướng dẫn của tôi để có thể thành công lấy Flag nhé )
 
+Mọi người có thể xem video tôi trình bày theo đường link sau : https://www.tiktok.com/@wrvn26/video/7581105931904224519
 
 Cảm ơn tất cả mọi người đã đọc bài của mình . Chúc các bạn thành công . Wish you have all the best !!!
 
