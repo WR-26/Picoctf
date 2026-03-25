@@ -25,9 +25,16 @@ Tôi sẽ sử dụng password=fagd với username=gchjk ( ngẫu nhiên ) để
 <img width="1896" height="1019" alt="image" src="https://github.com/user-attachments/assets/d1e96295-7357-4eae-8f8a-134af0883357" />
 
 
-Có lẽ lần này đi đúng hướng rồi ,  phần URL đã hiển thị flag . Việc chúng ta cần làm bây giờ đó là thử mọi cách xâm nhập vào sâu nhất có thể .
+Có lẽ lần này đi đúng hướng rồi,  phần URL đã hiển thị có chữ flag . 
+
+<img width="1255" height="49" alt="image" src="https://github.com/user-attachments/assets/93e386dd-6537-444f-b264-0220a1416a9e" />
+
+Tôi hy vọng bằng việc tìm tòi chúng ta sẽ làm được lab này và tìm ra flag . Nhưng trước hết việc chúng ta cần làm bây giờ đó là thử mọi cách xâm nhập vào sâu nhất có thể .
+
+Chú ý những nội dung của response . Chúng ta chưa thể thấy được những gợi ý khác từ đoạn HTML này .
 
 Chúng ta chú ý phần Request Cookie bên trong Inspector  thấy được bảng nội dung với các biến name và các giá trị . Chúng ta thấy được admin đang false , có lẽ do không đăng nhập đúng Joe nên nó False . 
+
 Chúng ta đang đăng nhập với tài khoản và mật khẩu ngẫu nhiên mà vẫn vào được trang này . 
 Tại sao không thử với Admin có giá trị là True để xem nó sẽ như thế nào nếu là True.
 Để có thể chỉnh sửa được trên Burp Suite , chúng ta cần chuyển Resquest sang Repeater . 
@@ -38,7 +45,7 @@ Sau đó , click chọn biến value của biến name đổi " False" thành " 
 
 Khi đã đổi xong , chúng ta sẽ Send lại xem có gì thay đổi phần Response không nhé . 
 
-Khi đổi Value của admin , phần response đã hiển thị nội dung flag chúng ta cần tìm như ảnh dưới đây :
+Khi đổi Value của admin và Send , chú ý đọc từng đoạn một trong mã HTML trong phần response, nội dung flag đã hiển thị ở phần response như ảnh dưới đây :
 
 <img width="1268" height="779" alt="image" src="https://github.com/user-attachments/assets/caa89608-2511-4d7e-aca3-b67256b86113" />
 
