@@ -60,4 +60,6 @@ Flag có dạng như sau :
 
 picoCTF{s4*****\_s****\_*********\_1nj*****5\_4****\_c****\********}
 
+Mọi người có thể xem video tôi trình bày theo đường link sau :https://www.tiktok.com/@wrvn26/video/7579312021112507665
+
 Cảm ơn tất cả mọi người đã dành thời gian để đọc bài viết của tôi. Wish you have all the best .
