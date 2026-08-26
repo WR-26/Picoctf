@@ -2,7 +2,9 @@
 # Writeup — Secure Dot Product (picoCTF 2026, Cryptography · Hard)
 
 > **Flag:** `picoCTF{n0t_so_s3cure_.x_w1th_sh@512_cabf48c0}`
+
 > **AES key khôi phục:** `761ed0c65ceb8b10745b61ed58197b649719ad08000c30efe2bdfc22ff482606`
+
 > **Tác giả solution:** OpenHack agent · exploit hoàn chỉnh trong `sol/solve.py`
 
 ---
