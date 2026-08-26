@@ -1,3 +1,6 @@
+<img width="830" height="660" alt="image" src="https://github.com/user-attachments/assets/7613955d-3a46-42f2-877a-0ff4af01232d" />
+
+
 # Writeup — MSS_ADVANCE Revenge (picoCTF 2026 · Cryptography · Hard)
 
 > **Flag:** `picoCTF{MSS_Advance_but_we_brought_it_back_and_made_it_harder!!!}`
